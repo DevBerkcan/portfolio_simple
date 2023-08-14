@@ -2,10 +2,10 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #051320;
     color: #aeb3b8;
-    display: flex;
-    flex-direction: column;
+    display: center;
+    flex-direction: center;
     justify-content: center;
-    margin-left: 100px;
+    margin-left: 150px;
     margin-right: 100px;
     height: 100vh;
 }
@@ -34,7 +34,7 @@ p {
 }
 
 i {
-    margin: 5px;
+    margin: 10px;
 }
 
 a {
@@ -61,6 +61,6 @@ a:hover {
 
     body {
         margin-left: 25px;
-        margin-right: 25px;
+        margin-right: 25pxpx;
     }
 }
